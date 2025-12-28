@@ -1,0 +1,285 @@
+:: StoryTitle
+murza
+
+
+:: StoryData
+{
+  "ifid": "6BB2CE7E-1A55-4CED-A982-D20FF6DE05DE",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Знакомство",
+  "tag-colors": {
+    "игра-началась": "red",
+    "hellyea": "orange"
+  },
+  "zoom": 0.6
+}
+
+
+:: \ Готовка {"position":"1175,50","size":"100,100"}
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; background: linear-gradient(to right, rgba(28,28,28,0.5), rgba(28,28,28, 0));">(text-style:"bold","none")[(b4r:"none","none","none","double")+(b4r-colour:white,white,white,black)[(text-colour:white)[Что это вообще такое?]]]</div>
+<img src="https://tpucdn.com/review/dobot-magician/images/dobotstudio-main-menu.png" width="800" height="400">
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(text-style:"bold","outline")[(b4r:"dashed","none")+(b4r-colour:yellow,grey)[(text-colour:red)[Если рука не подключена, то ты ничего не сможешь сделать. увы. Но, уверен, сможешь ее подключить, а дальше посмотрим) И так, нужны: сама рука на платформе, провод питания, провод соединения с компухтером, немного удачи). подключи руку к розетке, подключи руку к пк, нажми на кнопку включения и жди пока фиксики внутри 4 раза пискнут. Если не пищат - что-то не так и ты накосячил, мой ученик . После включения, найди на пк (или установи) DobotStudio. когда войдешь, посмотри в левый верхний угол: Рядом с кнопкой... К О Н Н Е К Т есть пустое поле: там выбираете порт пк, к которому подключили провод. После, нажимаете на этот конект.]]]</div>
+
+
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:green,yellow)[[[Для чего эт все?->цель]]]
+</div>
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:green,yellow)[[[го к плану->План изучения]]]
+</div>
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:green,yellow)[[[Я понял. но не понял. ухожу😵->АЛЬТФ4]]]
+</div>
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:green,yellow)[[[привееет)->Знакомство]]]
+</div>
+
+
+:: Stepik {"position":"300,475","size":"100,100"}
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; background: linear-gradient(to right, rgba(28,28,28,0.5), rgba(28,28,28, 0));">(text-style:"bold","none")[(b4r:"none","none","none","double")+(b4r-colour:white,white,white,black)[(text-colour:white)[Курсы от Степки]]]
+</div>
+<img src="https://ru.yougile.com/user-data/a0a01cc0-b5b6-460e-8216-b2d592206c5a/найс.png?previews[]=-256-preview@460x300" width="580" height="400">
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; position: absolute; top: 100px; left: 580px;">(text-style:"bold","outline")[(b4r:"dashed","none")+(b4r-colour:yellow,grey)[(text-colour:red)[К твоему счастью мне слишком лень продолжать объяснять. Уверен, Мой товарищь и луший друг - Хабр тебе поможет]]] </div>
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px;">
+(b4r:"groove","none")+(b4r-colour:orange,yellow)
+[[[<a href="https://habr.com/ru/companies/top3dshop/articles/418963/https://stepik.org/course/187818/syllabus" target="_blank">Переходи на их сайт</a>]]]
+</div>
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:orange,yellow)[[[😵->АЛЬТФ4]]]
+</div>
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:orange,yellow)[[[Давай к плану->План изучения]]]
+</div>
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:orange,yellow)[[[Давай начнем с чистого листа?->Знакомство]]]
+</div>
+
+
+
+:: \[<a href="https://habr.com/ru/companies/top3dshop/articles/418963/https://stepik.org/course/187818/syllabus" target="_blank">Переходи на их сайт</a> {"position":"550,675","size":"100,100"}
+
+
+
+:: sss [hellyea] {"position":"1025,150","size":"100,100"}
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; background: linear-gradient(to right, rgba(28,28,28,0.5), rgba(28,28,28, 0));">(text-style:"bold","none")[(b4r:"none","none","none","double")+(b4r-colour:white,white,white,black)[(text-colour:white)[Что это вообще такое?]]]</div>
+
+<div style="display: flex; align-items: flex-start; gap: 10px;">
+  <!-- Первая картинка (аватар) -->
+  <img src="https://ru.yougile.com/user-data/a0a01cc0-b5b6-460e-8216-b2d592206c5a/найс.png?previews[]=-256-preview@460x300" width="580" height="400">
+
+  <!-- Контейнер для второй и третьей картинки (расположены вертикально) -->
+  <div style="display: flex; flex-direction: column; gap: 10px;">
+    <img src="https://image.made-in-china.com/2f0j00obTWDeBanOcM/Dobot-Magician-Educational-Equipment-Stem-Educational-K12-Python-Blockly.webp" width="390" height="200">
+    <img src="https://3dtoday.ru/cache/870x/main/45b/45b321ccd0ac063622228b797e905ece.JPG" width="390" height="200">
+  </div>
+</div>
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(text-style:"bold","outline")[(b4r:"dashed","none")+(b4r-colour:yellow,grey)[(text-colour:red)[Объесню по простому. Вот у тебя есть твоя рука и у меня есть чья-то рука. А эта настольная робо-рука, которая достаточно проста и мала для серьезных операций, но достаточно интересна для изучения. Но не думай что это игрушка. Даже такой мини-терминатор может смело заменить тебя. даже в котле🙃. Так что соблюдай технику безопасности и не подключай к ИИ. ]]]</div>
+
+
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:orange,yellow)[[[Подготовка-> Готовка]]]
+</div>
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:green,yellow)[[[Зачем оно мне надо?->цель]]]
+</div>
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:green,yellow)[[[Вернемся к плану->План изучения]]]
+</div>
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:green,yellow)[[[Я понял. Я пошел😵->АЛЬТФ4]]]
+</div>
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:green,yellow)[[[Давай в самое начало->Знакомство]]]
+</div>
+
+
+:: АЛЬТФ4 {"position":"575,100","size":"100,100"}
+<script>
+window.close();
+</script>
+
+
+:: БД {"position":"850,25","size":"100,100"}
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; background: linear-gradient(to right, rgba(28,28,28,0.5), rgba(28,28,28, 0));">(text-style:"bold","none")[(b4r:"none","none","none","double")+(b4r-colour:white,white,white,black)[(text-colour:white)[Карикатуры]]]</div>
+<img src="https://qwen-webui-prod.oss-accelerate.aliyuncs.com/683696f7-277d-4b3e-b4de-6c7849f548b6/28db63aa-983e-48a6-8f25-ca0e21331945_image.png?x-oss-security-token=CAIS0AJ1q6Ft5B2yfSjIr5rHLdPspoxr56ulcl7TnGliVOpcha%2FKtjz2IHhMf3RvBeAbs%2Fs1lWBZ7vwflrN6SJtIXleCZtF94plR7QKoZ73Zocur7LAJksV0xJFS1UWpsvXJasDVEfn%2FGJ70GX2m%2BwZ3xbzlD0bAO3WuLZyOj7N%2Bc90TRXPWRDFaBdBQVGAAwY1gQhm3D%2Fu2NQPwiWf9FVdhvhEG6Vly8qOi2MaRmHG85R%2FYsrZN%2BNmgecP%2FNpE3bMwiCYyPsbYoJvab4kl58ANX8ap6tqtA9Arcs8uVa1sruE3eaLeLro0ycVAjN%2FhrQ%2FQZtpn1lvl1ofeWkJznAJW0o2rsz001LaPXI6uscIvBXr5R%2FgbqJe9J136lIniYYa61rD9q9eLnNgjPEHUE7TZGpF9U5FEJVv4kDKnd5WarfsNS895Bq3%2BMm37ityIx7urxuU4agAFwOcE6xGMPPvTy31Nrb%2B7q4SzbR8ZLIKRJkSlpS4fmRxRloU36eOueLDgc3qe6pusViQalMn7aUAM6RnNAoUc564Pyh7%2Ba4w86%2FKOQYlVf61zm3WwI8%2FNdbJhIwdWsspmmB0EXEz8CXRm4i9lQPLXKuSq3L9kYvN1EkAmDlJqVCyAA&x-oss-date=20251228T092309Z&x-oss-expires=300&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-credential=STS.NYrfiXKSJPiNpxbxi7XepjjaT%2F20251228%2Fap-southeast-1%2Foss%2Faliyun_v4_request&x-oss-signature=e573f4772d5714ceadeea3008856a10c2f212da4905f8f597e07306ec4af2e91" width="580" height="400">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; position: absolute; top: 70px; left: 580px;">(text-style:"bold","outline")[(b4r:"dashed","none")+(b4r-colour:yellow,grey)[(text-colour:red)[Карандашь - отличный выбор. Чтобы установить отверни под гнездом шуруп, вставь карандашь в разьем кисти, а затем вставь кисть в гнездо. Не забудь завернуть шуруп на место. Рука готова к работе. Ты ж мой умненький ученик. перейдем к рисованию) открываем приложение DobotStudio - write&draw. Зажимая кнопку на руке перемещаем ее на плоскоть стола. Затем нажимаем для фиксации AutoZ. Будем брать готовые шаблоны. нажимаем input shapes и размещаем понравившийся узор в доступной области. затем кнопка start ]]]</div>
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:green,yellow)[[[Может присоска будет легче?->виды БД]]]
+</div>
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:green,yellow)[[[клешня?->Создание БД]]]
+</div>
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:green,yellow)[[[хочу вернуться->sss]]]
+</div>
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:green,yellow)[[[К плану->План изучения]]]
+</div>
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:green,yellow)[[[Закончим😵->АЛЬТФ4]]]
+</div>
+
+
+:: Знакомство [игра-началась] {"position":"1325,50","size":"200,200"}
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; background: linear-gradient(to right, rgba(28,28,28,0.5), rgba(28,28,28, 0));">(text-style:"bold","none")[(b4r:"none","none","none","double")+(b4r-colour:white,white,white,black)[(text-colour:white)[Знакомство]]]</div>
+
+<img src="https://ru.yougile.com/user-data/a0a01cc0-b5b6-460e-8216-b2d592206c5a/найс.png?previews[]=-256-preview@460x300" width="580" height="400">
+(set:$fio to(prompt:"Как тебя называть грешник?",""))
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; position: absolute; top: 100px; left: 580px;">(text-style:"bold","outline")[(b4r:"dashed","none")+(b4r-colour:yellow,grey)[(text-colour:red)[Приветствую, $fio, в моем классе😜Меня зовут Ремор. Сегодня я решил дать тебе руку, чтобы ты с ней ознакомился. блин... РОБО-руку. Скучно. Чтобы ускорить обучение общаться будем через субтитры👀. Надеюсь ты не закончишь как все остальные 😈. Итак... Пройдемся по плану:]]]
+</div>
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:green,yellow)[[[План?->План изучения]]]
+</div>
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:green,yellow)[
+[[Я пожалуй уйду->АЛЬТФ4]]
+]
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+:: Знакомство (опять) {"position":"1425,525","size":"100,100"}
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; background: linear-gradient(to right, rgba(28,28,28,0.5), rgba(28,28,28, 0));">(text-style:"bold","none")[(b4r:"none","none","none","double")+(b4r-colour:white,white,white,black)[(text-colour:white)[Знакомство(опять)]]]
+</div>
+
+<img src="https://ru.yougile.com/user-data/a0a01cc0-b5b6-460e-8216-b2d592206c5a/найс.png?previews[]=-256-preview@460x300" width="580" height="400">
+(set:$fio to(prompt:"Как тебя называть грешник?",""))
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; position: absolute; top: 100px; left: 580px;">(text-style:"bold","outline")[(b4r:"dashed","none")+(b4r-colour:yellow,grey)[(text-colour:red)[ты серьезно? Мое имя не запомнил? (я твое тоже) Или тебе по кайфу уроки прерывать?? может продолжим?]]]
+</div>
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:orange,yellow)[[[ок->План изучения]]]
+</div>
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:orange,yellow)[[[Заново познакомимся. потерпишь->Знакомство]]]
+</div>
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:orange,yellow)[
+[[Я ухожу ухожу КРАСИВОО🤪->АЛЬТФ4]]
+]
+</div>
+
+
+:: Итог {"position":"1550,425","size":"100,100"}
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; background: linear-gradient(to right, rgba(28,28,28,0.5), rgba(28,28,28, 0));">(text-style:"bold","none")[(b4r:"none","none","none","double")+(b4r-colour:white,white,white,black)[(text-colour:white)[Подведем Итоги]]]</div>
+<img src="https://ru.yougile.com/user-data/a0a01cc0-b5b6-460e-8216-b2d592206c5a/найс.png?previews[]=-256-preview@460x300" width="580" height="400">
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(text-style:"bold","outline")[(b4r:"dashed","none")+(b4r-colour:yellow,grey)[(text-colour:red)[Сегодня вместо пожирания душ, я показал тебе настольный подстаканник за 300 тыс: что это такое, для чего он нужен, особо и не рассскажешь, так как он в основном для личного пользования и обучения на его конструкции.. Так. Надеюсь тебе понравился урок. Больше не возвращайся🙏]]]</div>
+
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:orange,yellow)[[[назад->План изучения]]]
+</div>
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:orange,yellow)[[[Может еще чему то меня научишь?😵->АЛЬТФ4]]]
+</div>
+
+
+
+:: План изучения {"position":"1150,375","size":"100,100"}
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; background: linear-gradient(to right, rgba(28,28,28,0.5), rgba(28,28,28, 0));">(text-style:"bold","none")[(b4r:"none","none","none","double")+(b4r-colour:white,white,white,black)[(text-colour:white)[План изучения]]]</div>
+
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:orange,yellow)[[[Кратко о руке->sss]]]
+</div>
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:orange,yellow)[[[Пройдемся по кругам->цель]]]
+</div>
+</div>
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:orange,yellow)[[[Сайт от куда все сплагиатил->Stepik]]]
+</div>
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:orange,yellow)[[[ИтоГО ГО ГО->Итог]]]
+</div>
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:orange,yellow)[[[Закрыть😵->АЛЬТФ4]]]
+</div>
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:green,yellow)[[[Блин, давай еще раз познакомимся->Знакомство (опять)]]]
+</div>
+
+
+
+:: Создание БД {"position":"775,275","size":"100,100"}
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; background: linear-gradient(to right, rgba(28,28,28,0.5), rgba(28,28,28, 0));">(text-style:"bold","none")[(b4r:"none","none","none","double")+(b4r-colour:white,white,white,black)[(text-colour:white)[Рука]]]
+</div>
+<img src="https://qwen-webui-prod.oss-accelerate.aliyuncs.com/683696f7-277d-4b3e-b4de-6c7849f548b6/7eb6c5cd-5ec0-4558-b8b8-90398a1e63e4_image.png?x-oss-security-token=CAIS0AJ1q6Ft5B2yfSjIr5r0HYzirrBH9YiDQFXI0XE2T%2FVLi4mdtDz2IHhMf3RvBeAbs%2Fs1lWBZ7vwflrN6SJtIXleCZtF94plR7QKoZ73Zocur7LAJksVZyPxT1UWpsvXJasDVEfn%2FGJ70GX2m%2BwZ3xbzlD0bAO3WuLZyOj7N%2Bc90TRXPWRDFaBdBQVGAAwY1gQhm3D%2Fu2NQPwiWf9FVdhvhEG6Vly8qOi2MaRmHG85R%2FYsrZN%2BNmgecP%2FNpE3bMwiCYyPsbYoJvab4kl58ANX8ap6tqtA9Arcs8uVa1sruE3eaLeLro0ycVAjN%2FhrQ%2FQZtpn1lvl1ofeWkJznAJW0o2rsz001LaPXI6uscIvBXr5R%2FkbhIsJJ136lIniYYa61rD9q9eLnNgjPEHUE7TZGpF9U5FEJVv4kDKnd5WarfsNS895Bq3%2BMm37iylsfierxuU4agAFCHChmvfG%2BC9WDyrEbE6S5NE%2B6UMd%2BFrSO6rvisxek32KzYJJJOhh%2Fj38ZC45RIf283oaXWNWUN51FPlNnsULIjm%2BMXcg%2FHJ6sjQV5WbYrBkUoKS8vOBIaGTHfShntCpzmpmDzK8YC2piWNZSLwiCcYthMzE5k5V96ujCpqOL8eiAA&x-oss-date=20251228T091945Z&x-oss-expires=300&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-credential=STS.NYAV6VCofBJhBsy5qcCzgdL6V%2F20251228%2Fap-southeast-1%2Foss%2Faliyun_v4_request&x-oss-signature=688d324aef7569d2da6448374c6f4b2b4671f8037439486e1a177c10c699ea4f" width="480" height="500">
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; position: absolute; top: 100px; left: 580px;">(text-style:"bold","outline")[(b4r:"dashed","none")+(b4r-colour:yellow,grey)[(text-colour:red)[КЛЕШНЯ - очень слабый инструмент, который так же работает от воздушной помпы. давление слабое так что не поднимет предмет масса, которого больше 500 гр. Соединение проходит все так же, как в карандаше и в присоске: откручивай шуруп, вставляй в гнездо моинпулятор, закручивай. так же присоедини провод к предплечию для контакта . Рекомендую для легкости освоения использовать джостик]]]</div>
+
+
+
+
+
+
+
+
+
+
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:green,yellow)[[Ну давай карандаш->БД]]
+</div>
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:green,yellow)[[[Может присоска будет легче?->виды БД]]]
+</div>
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:green,yellow)[[[Закрыть😵->АЛЬТФ4]]]
+</div>
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:green,yellow)[
+[[Хочу посмотреть на план->План изучения]]
+]
+</div>
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:green,yellow)[[[Как насчет того, чтобы познакомится?->Знакомство]]]
+</div>
+
+
+:: виды БД {"position":"675,475","size":"100,100"}
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; background: linear-gradient(to right, rgba(28,28,28,0.5), rgba(28,28,28, 0));">(text-style:"bold","none")[(b4r:"none","none","none","double")+(b4r-colour:white,white,white,black)[(text-colour:white)[Виды БД]]]</div>
+
+<img src="https://habrastorage.org/r/w780/webt/xe/ck/ej/xeckejgm_e-3vpexw33n6cvfugm.jpeg" width="700" height="400">
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px;">(text-style:"bold","outline")[(b4r:"dashed","none")+(b4r-colour:yellow,grey)[(text-colour:red)[Присоска - не легко. Для начала, подключи помпу к панеле руки а так же сам насос в гнездо конечности, закручивай. так же присоедини провод к предплечию для контакта. Все порты подписаны) переходи в ^$@aigsdugsnHELPnsiughvu... рекомендую использовать джостик который шел в комплекте]]]
+</div>
+
+
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:green,yellow)[[Ну давай карандаш->Создание БД]]
+</div>
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:green,yellow)[[Клешня?->БД]]
+</div>
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:green,yellow)[[[Давай вернемся к плану->План изучения]]]
+</div>
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:green,yellow)[[[Закончим😵->АЛЬТФ4]]]
+</div>
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:green,yellow)[[[а как тебя зовут?->Знакомство (опять)]]]
+</div>
+
+
+:: цель {"position":"550,300","size":"100,100"}
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; background: linear-gradient(to right, rgba(28,28,28,0.5), rgba(28,28,28, 0));">(text-style:"bold","none")[(b4r:"none","none","none","double")+(b4r-colour:white,white,white,black)[(text-colour:white)[Для чего нужно оно тебе?]]]</div>
+<img src="https://ru.yougile.com/user-data/a0a01cc0-b5b6-460e-8216-b2d592206c5a/найс.png?previews[]=-256-preview@460x300" width="580" height="400">
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; position: absolute; top: 10px; left: 580px;">(text-style:"bold","outline")[(b4r:"dashed","none")+(b4r-colour:yellow,grey)[(text-colour:red)[Говорят: "если тебе не хочеца работать, так заставим 🤓." не так ли?. Дам тебе пока ограничения, чтоб сильно умным не становился. хм.... 💥трах-тиби-дох-дох💥 Вуаля, САНКЦИИ. теперь тебе доступны только карандаш, присоска, клешня для работы. Остальное позже) тебе же легче  ]]]</div>
+
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:green,yellow)[[[Давай вернемся к плану->План изучения]]]
+</div>
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:green,yellow)[[Клешня?->Создание БД]]
+</div>
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:green,yellow)[[Ну давай карандаш->БД]]
+</div>
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:green,yellow)[[Попробую присоску->виды БД]]
+</div>
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:green,yellow)[[[Закрыть😵->АЛЬТФ4]]]
+</div>
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:green,yellow)[[[Давай в самое начало->Знакомство]]]
+</div>
+
+
+:: StoryStylesheet [stylesheet]
+tw-link
+{
+  color:#ffffff;
+}
+
+tw-story
+{
+  font-family:Arial;
+  font-size: 22px;
+}
+
+tw-story {
+  background-image:url("https://i.pinimg.com/originals/e8/f7/91/e8f791a9817f03a0ca5dfed0f2422807.jpg");
+ background-size:cover;
+}
